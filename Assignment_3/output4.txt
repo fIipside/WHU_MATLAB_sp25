@@ -1,0 +1,7 @@
+Running PSO for n = 1
+Video saved as pso_optimization.avi
+Best solution found for n=1: 0.000000
+Running PSO for n = 2
+Best solution found for n=2: 0.000000
+Running PSO for n = 10
+Best solution found for n=10: 0.000000

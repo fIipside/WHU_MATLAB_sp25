@@ -1,0 +1,3 @@
+Elliptical Orbit: 0.1690x^2 + -0.1892xy + 0.1910y^2 + -0.8996x + -0.1191y + 0.2751 = 0
+Ellipse Center: (3.9257, 2.2569)
+Semi-Major Axis: 2.4299, Semi-Minor Axis: 4.3799

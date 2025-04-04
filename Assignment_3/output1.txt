@@ -1,0 +1,43 @@
+
+<a href = "matlab: helpview('optim','local_min_unconstrained','CSHelpWindow');">找到局部最小值</a>。
+
+优化已完成，因为<a href = "matlab: helpview('optim','grad_size','CSHelpWindow');">梯度大小</a>小于
+<a href = "matlab: helpview('optim','optimality_tolerance_unc','CSHelpWindow');">最优性容差</a>的值。
+
+<<a href = "matlab: createExitMsg({'optim:fminusub:Exit1basic'},{'optim:fminusub:Exit1detailed','3.269274e-08','1.000000e-06'},true,true);;">停止条件详细信息</a>>
+
+<a href = "matlab: helpview('optim','local_min_unconstrained','CSHelpWindow');">找到局部最小值</a>。
+
+优化已完成，因为<a href = "matlab: helpview('optim','grad_size','CSHelpWindow');">梯度大小</a>小于
+<a href = "matlab: helpview('optim','optimality_tolerance_unc','CSHelpWindow');">最优性容差</a>的值。
+
+<<a href = "matlab: createExitMsg({'optim:fminusub:Exit1basic'},{'optim:fminusub:Exit1detailed','3.269274e-08','1.000000e-06'},true,true);;">停止条件详细信息</a>>
+
+<a href = "matlab: helpview('optim','initial_local_unc','CSHelpWindow');">初始点是局部最小值</a>。
+
+优化已完成，因为在初始点处的<a href = "matlab: helpview('optim','grad_size','CSHelpWindow');">梯度大小</a>小于<a href = "matlab: helpview('optim','optimality_tolerance_unc','CSHelpWindow');">最优性容差</a>的值。
+
+<<a href = "matlab: createExitMsg({'optimlib:sfminbx:Exit100basic'},{'optimlib:sfminbx:Exit100detailed','1.490116e-08','1.000000e-06'},true,true);;">停止条件详细信息</a>>
+
+<a href = "matlab: helpview('optim','local_min_unconstrained','CSHelpWindow');">找到局部最小值</a>。
+
+优化已完成，因为<a href = "matlab: helpview('optim','grad_size','CSHelpWindow');">梯度大小</a>小于
+<a href = "matlab: helpview('optim','optimality_tolerance_unc','CSHelpWindow');">最优性容差</a>的值。
+
+<<a href = "matlab: createExitMsg({'optim:fminusub:Exit1basic'},{'optim:fminusub:Exit1detailed','3.269274e-08','1.000000e-06'},true,true);;">停止条件详细信息</a>>
+
+<a href = "matlab: helpview('optim','local_min_unconstrained','CSHelpWindow');">找到局部最小值</a>。
+
+优化已完成，因为<a href = "matlab: helpview('optim','grad_size','CSHelpWindow');">梯度大小</a>小于
+<a href = "matlab: helpview('optim','optimality_tolerance_unc','CSHelpWindow');">最优性容差</a>的值。
+
+<<a href = "matlab: createExitMsg({'optim:fminusub:Exit1basic'},{'optim:fminusub:Exit1detailed','3.269274e-08','1.000000e-06'},true,true);;">停止条件详细信息</a>>
+Optimal Solution: x = 0.0000, y = 0.0000, f(x,y) = 0.000000
+ga stopped because the average change in the fitness value is less than options.FunctionTolerance.
+
+<a href = "matlab: helpview('optim','did_not_move','CSHelpWindow');">初始点是满足约束的局部最小值</a>。
+
+优化已完成，因为在初始点处，目标函数沿<a href = "matlab: helpview('optim','feasible_directions','CSHelpWindow');">可行方向</a>在<a href = "matlab: helpview('optim','optimality_tolerance_msgcsh','CSHelpWindow');">最优性容差</a>值范围内呈现非递减，并且在<a href = "matlab: helpview('optim','constraint_tolerance','CSHelpWindow');">约束容差</a>值范围内满足约束。
+
+<<a href = "matlab: createExitMsg({'optimlib:sqpLineSearch:Exit100basic'},{'optimlib:sqpLineSearch:Exit100detailed','1.490116e-08','1.000000e-06','0.000000e+00','1.000000e-06'},true,true);;">停止条件详细信息</a>>
+Optimal Solution: x = 0.6121, y = 3.0782, f(x,y) = 0.009716
