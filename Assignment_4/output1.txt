@@ -1,0 +1,1 @@
+Curve Length = 16.0075

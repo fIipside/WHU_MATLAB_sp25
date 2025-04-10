@@ -1,0 +1,12 @@
+Linear Fit：
+    0.0015   -0.0034   -0.0005   -0.0024   -0.0035
+
+Nonlinear Fit With Arbitrary Start：
+    0.1100   -0.0736    0.0049    0.0082   -0.0162
+
+Nonlinear Fit：
+    0.0025   -0.0024   -0.0003   -0.0025   -0.0034
+
+RMSE for Linear Fit: 20.7524
+RMSE for Nonlinear Fit With Arbitrary Start: 2.6946
+RMSE for Nonlinear Fit: 5.3846

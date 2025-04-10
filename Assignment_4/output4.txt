@@ -1,0 +1,18 @@
+
+                                            Norm of      First-order 
+ Iteration  Func-count      Resnorm            step       optimality
+     0          7           32082.5                         6.42e+04
+     1         14           2875.97         5.37613         6.39e+04      
+     2         21           2047.95        0.188312          3.8e+03      
+     3         28           2039.58        0.167689             91.6      
+     4         35           2039.58      0.00337474           0.0566      
+     5         42           2039.58     0.000135419           0.0197      
+
+<a href = "matlab: helpview('optim','local_min_possible_lsq','CSHelpWindow');">可能存在局部最小值</a>。
+
+lsqcurvefit 已停止，因为平方和相对于其初始值的最终变化小于<a href = "matlab: helpview('optim','function_tolerance_lsq','CSHelpWindow');">函数容差</a>值。
+
+<<a href = "matlab: createExitMsg({'optimlib:snls:Exit3basic','lsqcurvefit'},{'optimlib:snls:Exit3detailed','1.000000e-06'},true,true);;">停止条件详细信息</a>>
+Estimated parameters:
+w1 = 0.3974, a1 = 5.0645, b1 = 2.7412
+w2 = 0.6037, a2 = 3.7723, b2 = 2.2554

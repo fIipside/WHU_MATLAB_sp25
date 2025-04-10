@@ -1,0 +1,5 @@
+Estimated Aircraft Position:
+x = -60.0000 km
+y = 82.0001 km
+z = 9.9999 km
+Minimum residual norm: 5.3519e-09
