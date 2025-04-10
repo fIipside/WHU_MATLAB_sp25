@@ -1,3 +1,30 @@
-Elliptical Orbit: 0.1690x^2 + -0.1892xy + 0.1910y^2 + -0.8996x + -0.1191y + 0.2751 = 0
-Ellipse Center: (3.9257, 2.2569)
-Semi-Major Axis: 2.4299, Semi-Minor Axis: 4.3799
+                                            Norm of      First-order 
+ Iteration  Func-count      Resnorm            step       optimality
+     0          6           1116.29                              385
+     1         12           1116.29              10              385      
+     2         18           4.69274             2.5             19.7      
+     3         24           4.69274         2.15206             19.7      
+     4         30          0.642737        0.538016             2.08      
+     5         36          0.642737         1.12747             2.08      
+     6         42          0.342013        0.269008            0.929      
+     7         48          0.261434        0.538016             4.28      
+     8         54          0.120528        0.538016             3.54      
+     9         60         0.0346624        0.538016                2      
+    10         66         0.0029614        0.447543            0.155      
+    11         72         0.0016669        0.214867            0.491      
+    12         78        3.4679e-08       0.0120088         0.000793      
+    13         84       2.97896e-08     0.000118086         1.99e-07      
+    14         90       2.97896e-08     3.64526e-08         1.73e-12      
+
+<a href = "matlab: helpview('optim','local_min_possible_lsq','CSHelpWindow');">可能存在局部最小值</a>。
+
+lsqnonlin 已停止，因为平方和相对于其初始值的最终变化小于<a href = "matlab: helpview('optim','function_tolerance_lsq','CSHelpWindow');">函数容差</a>值。
+
+<<a href = "matlab: createExitMsg({'optimlib:snls:Exit3basic','lsqnonlin'},{'optimlib:snls:Exit3detailed','1.000000e-12'},true,true);;">停止条件详细信息</a>>
+Fitted Ellipse Parameters:
+  Semi-Major Axis a = 4.951658
+  Semi-Minor Axis b = 2.903180
+  Ellipse Center: (3.268191, 2.325810)
+  Rotation Angle (rad): 0.650951
+  Distance from Center to Focus: 4.011292
+  Actual Distance to Origin: 4.011292
