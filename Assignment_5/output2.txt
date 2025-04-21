@@ -1,0 +1,74 @@
+{错误使用 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('problem2code', 'D:\Files\WHU_MATLAB\Assignment_5\problem2code.m', 45)" style="font-weight:bold">problem2code</a> (<a href="matlab: opentoline('D:\Files\WHU_MATLAB\Assignment_5\problem2code.m',45,0)">第 45 行</a>)
+无法创建文件 pendulum_video.avi。权限被拒绝。
+} 
+problem2code
+{此类型的变量不支持使用点进行索引。
+
+出错 alternateGetframe
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('getframe', 'D:\MATLAB\toolbox\matlab\graphics\graphics\printing\getframe.m', 68)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('D:\MATLAB\toolbox\matlab\graphics\graphics\printing\getframe.m',68,0)">第 68 行</a>)
+    x = alternateGetframe(parentFig, offsetRect, scaledOffsetRect, includeDecorations, true, h, offsetRectSpecified);
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('problem2code', 'D:\Files\WHU_MATLAB\Assignment_5\problem2code.m', 55)" style="font-weight:bold">problem2code</a> (<a href="matlab: opentoline('D:\Files\WHU_MATLAB\Assignment_5\problem2code.m',55,0)">第 55 行</a>)
+    frame = getframe(gcf);
+            ^^^^^^^^^^^^^
+} 
+problem2code
+{此类型的变量不支持使用点进行索引。
+
+出错 alternateGetframe
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('getframe', 'D:\MATLAB\toolbox\matlab\graphics\graphics\printing\getframe.m', 68)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('D:\MATLAB\toolbox\matlab\graphics\graphics\printing\getframe.m',68,0)">第 68 行</a>)
+    x = alternateGetframe(parentFig, offsetRect, scaledOffsetRect, includeDecorations, true, h, offsetRectSpecified);
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('problem2code', 'D:\Files\WHU_MATLAB\Assignment_5\problem2code.m', 55)" style="font-weight:bold">problem2code</a> (<a href="matlab: opentoline('D:\Files\WHU_MATLAB\Assignment_5\problem2code.m',55,0)">第 55 行</a>)
+    frame = getframe(gcf);
+            ^^^^^^^^^^^^^
+} 
+problem2code
+{此类型的变量不支持使用点进行索引。
+
+出错 alternateGetframe
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('getframe', 'D:\MATLAB\toolbox\matlab\graphics\graphics\printing\getframe.m', 68)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('D:\MATLAB\toolbox\matlab\graphics\graphics\printing\getframe.m',68,0)">第 68 行</a>)
+    x = alternateGetframe(parentFig, offsetRect, scaledOffsetRect, includeDecorations, true, h, offsetRectSpecified);
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('problem2code', 'D:\Files\WHU_MATLAB\Assignment_5\problem2code.m', 55)" style="font-weight:bold">problem2code</a> (<a href="matlab: opentoline('D:\Files\WHU_MATLAB\Assignment_5\problem2code.m',55,0)">第 55 行</a>)
+    frame = getframe(gcf);
+            ^^^^^^^^^^^^^
+} 
+problem2code
+{错误使用 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('matlab.graphics.axis.Axes/set')" style="font-weight:bold">matlab.graphics.axis.Axes/set</a>
+值必须是数值类型的 1x2 向量，其中第二个元素大于第一个元素或为 Inf。
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('axis>LocSetLimits', 'D:\MATLAB\toolbox\matlab\graphics\graphics\axis\axis.m', 291)" style="font-weight:bold">axis>LocSetLimits</a> (<a href="matlab: opentoline('D:\MATLAB\toolbox\matlab\graphics\graphics\axis\axis.m',291,0)">第 291 行</a>)
+    set(ax,...
+    ^^^^^^^^^^
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('axis', 'D:\MATLAB\toolbox\matlab\graphics\graphics\axis\axis.m', 138)" style="font-weight:bold">axis</a> (<a href="matlab: opentoline('D:\MATLAB\toolbox\matlab\graphics\graphics\axis\axis.m',138,0)">第 138 行</a>)
+                LocSetLimits(ax(j),cur_arg,names);
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('problem2code', 'D:\Files\WHU_MATLAB\Assignment_5\problem2code.m', 42)" style="font-weight:bold">problem2code</a> (<a href="matlab: opentoline('D:\Files\WHU_MATLAB\Assignment_5\problem2code.m',42,0)">第 42 行</a>)
+axis([x_min, x_max, y_min, y_max]);
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+problem2code
+{此类型的变量不支持使用点进行索引。
+
+出错 alternateGetframe
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('getframe', 'D:\MATLAB\toolbox\matlab\graphics\graphics\printing\getframe.m', 68)" style="font-weight:bold">getframe</a> (<a href="matlab: opentoline('D:\MATLAB\toolbox\matlab\graphics\graphics\printing\getframe.m',68,0)">第 68 行</a>)
+    x = alternateGetframe(parentFig, offsetRect, scaledOffsetRect, includeDecorations, true, h, offsetRectSpecified);
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('problem2code', 'D:\Files\WHU_MATLAB\Assignment_5\problem2code.m', 57)" style="font-weight:bold">problem2code</a> (<a href="matlab: opentoline('D:\Files\WHU_MATLAB\Assignment_5\problem2code.m',57,0)">第 57 行</a>)
+    frame = getframe(gcf);
+            ^^^^^^^^^^^^^
+} 
+problem2code
+{错误使用 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('VideoWriter/writeVideo', 'D:\MATLAB\toolbox\matlab\audiovideo\VideoWriter.m', 368)" style="font-weight:bold">VideoWriter/writeVideo</a> (<a href="matlab: opentoline('D:\MATLAB\toolbox\matlab\audiovideo\VideoWriter.m',368,0)">第 368 行</a>)
+帧必须为 1120 × 840
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('problem2code', 'D:\Files\WHU_MATLAB\Assignment_5\problem2code.m', 64)" style="font-weight:bold">problem2code</a> (<a href="matlab: opentoline('D:\Files\WHU_MATLAB\Assignment_5\problem2code.m',64,0)">第 64 行</a>)
+    writeVideo(vid, frame);
+    ^^^^^^^^^^^^^^^^^^^^^^
+} 
+problem2code

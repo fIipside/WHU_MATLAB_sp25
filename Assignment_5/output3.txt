@@ -1,0 +1,5 @@
+[警告: 必须使用 3333 个以上的网格点，才能满足容差要求。
+ 输出参数中输出的是最后一个 10000 点网格与解。
+ 最大残差为 0.162519，但所要求的准确度为 0.01。] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('bvp4c', 'D:\MATLAB\toolbox\matlab\funfun\bvp4c.m', 266)" style="font-weight:bold">bvp4c</a> (<a href="matlab: opentoline('D:\MATLAB\toolbox\matlab\funfun\bvp4c.m',266,0)">第 266 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('problem3code', 'D:\Files\WHU_MATLAB\Assignment_5\problem3code.m', 28)" style="font-weight:bold">problem3code</a> (<a href="matlab: opentoline('D:\Files\WHU_MATLAB\Assignment_5\problem3code.m',28,0)">第 28 行</a>)] 
