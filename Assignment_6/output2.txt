@@ -1,0 +1,3 @@
+4-point Gauss–Legendre on [-1,1]:2.9245409391
+Composite GL :2.9253034918
+MATLAB integral (exact):2.9253034918

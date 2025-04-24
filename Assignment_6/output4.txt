@@ -1,0 +1,1 @@
+Approximated integral value: 102.3888755382
