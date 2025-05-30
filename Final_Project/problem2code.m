@@ -8,12 +8,16 @@ syms C1(t) C2(t) beta1 beta2 beta3 C0 C10 C20
 eq1 = diff(C1, t) == beta1 * (C0 - C1);
 eq2 = diff(C2, t) == beta2 * (C1 - C2) + beta3;
 
-% Define initial conditions
+% Define Initial Conditions
 cond1 = C1(0) == C10;
 cond2 = C2(0) == C20;
 
-% Solve the ODE system
+% Solve the ODE System
 [C1_sol, C2_sol] = dsolve([eq1, eq2], [cond1, cond2]);
+
+% Simplify the Solutions
+C1_sol = simplify(C1_sol);
+C2_sol = simplify(C2_sol);
 
 % Display the Analytical Solutions
 disp('C1(t) = ');
